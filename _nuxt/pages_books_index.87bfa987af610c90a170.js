@@ -1,0 +1,1 @@
+webpackJsonp([7],{O0Vp:function(e,l,n){"use strict";Object.defineProperty(l,"__esModule",{value:!0});var u=n("VU/8")(null,null,!1,null,null,null);u.options.__file="pages\\books\\index.vue",l.default=u.exports}});
